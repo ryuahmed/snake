@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1476083642 source:c:\users\ryu\desktop\new folder (3)\hebi.cpp\hebi.cpp
+	<iostream>
+	<stdlib.h>
+	<iostream>
+	<windows.h>
+	<conio.h>
+
